@@ -3,7 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMalikC&orgs=marknadsplan&show_icons=true&theme=tokyonight&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=DaniyalMalikC&orgs=marknadsplan&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=DaniyalMalikC&orgs=Appxamine&show_icons=true&theme=tokyonight)
 <!--
 **DaniyalMalikC/DaniyalMalikC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
