@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMalikC&theme=tokyonight&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalmalikc&orgs=marknadsplan&hide_progress=false)](https://github.com/daniyalmalikc/github-readme-stats)
+
+![Top Langs]((https://github-readme-stats.vercel.app/api?username=DaniyalMalikC&orgs=marknadsplan)](https://github.com/DaniyalMalikC/github-readme-stats)
 <!--
 **DaniyalMalikC/DaniyalMalikC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
