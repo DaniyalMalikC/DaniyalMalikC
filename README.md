@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMalikC&theme=tokyonight&hide_border=false)
 
+![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=DaniyalMalikC&include_orgs=true)
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMalikC&orgs=marknadsplan&show_icons=true&theme=tokyonight&layout=compact)
 
