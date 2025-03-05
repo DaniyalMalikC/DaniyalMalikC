@@ -99,7 +99,6 @@ Driven Developer and Computer Scientist with 5+ years of experience building web
 ![Asana](https://img.shields.io/badge/Asana-%23273347.svg?style=for-the-badge&logo=asana&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMalikC&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMalikC&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📫 How to reach me
