@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 -->
 
 # M. Daniyal Malik
-## Full Stack Web & Mobile App Developer | 6+ Years Experience
+## Full Stack Web & Mobile App Developer | 7+ Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalmalikc)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalmalikc@gmail.com)
 
 ## 💫 About Me
-Driven Developer and Computer Scientist with 5+ years of experience building web and mobile applications. I specialize in creating innovative software solutions that exceed industry standards and drive business success. My expertise spans across the full development lifecycle from concept to deployment, with a strong focus on React, React Native, and modern JavaScript frameworks.
+Driven Developer and Computer Scientist with 7+ years of experience building web and mobile applications. I specialize in creating innovative software solutions that exceed industry standards and drive business success. My expertise spans across the full development lifecycle from concept to deployment, with a strong focus on React, React Native, and modern JavaScript frameworks.
 
 ## 🚀 Current Work
 - Currently working as a Senior Consultant Developer at Digital Plattform (Sweden)
@@ -102,7 +102,7 @@ Driven Developer and Computer Scientist with 5+ years of experience building web
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMalikC&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📫 How to reach me
-- 📧 Email: daniyalmalikc@gmail.com
+- 📧 Email: [mailto:daniyalmalikc@gmail.com]daniyalmalikc@gmail.com
 - 📱 Phone: +923121088139 | +923341356174
 - 🔗 LinkedIn: [linkedin.com/in/daniyalmalikc](https://www.linkedin.com/in/daniyalmalikc)
 - 🌐 GitHub: [github.com/DaniyalMalikC](https://github.com/DaniyalMalikC)
