@@ -102,7 +102,7 @@ Driven Developer and Computer Scientist with 7+ years of experience building web
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMalikC&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📫 How to reach me
-- 📧 Email: [mailto:daniyalmalikc@gmail.com]daniyalmalikc@gmail.com
+- 📧 Email: daniyalmalikc@gmail.com
 - 📱 Phone: +923121088139 | +923341356174
 - 🔗 LinkedIn: [linkedin.com/in/daniyalmalikc](https://www.linkedin.com/in/daniyalmalikc)
 - 🌐 GitHub: [github.com/DaniyalMalikC](https://github.com/DaniyalMalikC)
