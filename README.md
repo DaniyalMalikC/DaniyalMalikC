@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 # Muhammad Daniyal Malik
-## Full Stack Web & Mobile App Developer | 7+ Years Experience
+## Senior Software Engineer | 7+ Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalmalikc)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalmalikc@gmail.com)
