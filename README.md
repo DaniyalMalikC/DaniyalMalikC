@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalmalikc@gmail.com)
 
 ## 💫 About Me
-Driven Developer and Computer Scientist with 7+ years of experience building web and mobile applications. I specialize in creating innovative software solutions that exceed industry standards and drive business success. My expertise spans across the full development lifecycle from concept to deployment, with a strong focus on React, React Native, and modern JavaScript frameworks.
+Organizations shape the software they build. I help shape both improving workflows, refining business logic, and translating organizational structure into scalable software architecture.
+
+Driven Developer and Computer Scientist with 8+ years of experience building web and mobile applications. I specialize in creating innovative software solutions that exceed industry standards and drive business success. My expertise spans across the full development lifecycle from concept to deployment, with a strong focus on React, React Native, and modern JavaScript frameworks.
 
 ## 🚀 Current Work
-- Currently working as a Senior Consultant Developer at Digital Plattform (Sweden)
-- Developing enterprise-grade applications using MERN stack with TypeScript, GraphQL and MVC .Net
+- Currently working as a Senior Software Engineer at MyAlfred (United Arab Emirates)
+- Developing enterprise-grade applications using TypeScript, MERN, GraphQL, MVC .Net, MySQL, Cloud Solutions (AWS, Azure DevOps, GCP)
 - Building cross-platform mobile applications with React Native CLI
 
 <!--
