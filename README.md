@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Muhammad Daniyal Malik
-## Senior Software Engineer | 7+ Years Experience
+# Muhammad Daniyal Malik .C
+## Principle Software Architect | 8+ Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalmalikc)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalmalikc@gmail.com)
